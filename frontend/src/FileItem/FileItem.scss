@@ -1,13 +1,14 @@
 li{
     list-style: none;
     margin: 1.2em 0;
-    background-color: #CADCFC;
+    background-color: #9afbd6;
     border-radius: 5px;
     display: flex;
     align-items: center;
     padding: 1.2em 1.5em;
+    border: 2px solid  #00463b ;
     svg{
-        color: #00246B;
+        color: #00463b;
 
         &:first-child{
             font-size: 1.2em;
